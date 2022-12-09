@@ -1,0 +1,15 @@
+task-8 dec
+
+Activity 1
+
+Step 1 : Create a local repo
+Step2 : Create 3 files in main branch
+Step 3 : Create repo in git hub
+Step 4 : push changes on github
+
+Activity 2
+
+Study : What is different ways of github cloning from authentication prospective?
+
+1. https
+2. ssh
