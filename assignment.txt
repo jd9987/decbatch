@@ -1,3 +1,5 @@
+GIT HUB
+
 08 DEC 2022
 
 Activity 1
@@ -29,3 +31,30 @@ https://education.github.com/git-cheat-sheet-education.pdf
 
 Activity 5
 Find difference between git clone and fork command
+
+JENKINS
+
+14 Dec
+
+What is the difference between Continuos Integration & Continuos Delivery?
+
+What is the difference between JAR, WAR and EAR file?
+
+JACOCO
+COBURTURA
+
+AWS- for- jenkins
+create vm on aws
+install maven on it
+
+AZURE- 
+create vm on azure
+install maven on it
+
+AWS- for- jenkins
+create vm on aws
+install maven on it
+
+https://www.digitalocean.com/community/tutorials/install-maven-linux-ubuntu
+
+https://www.jenkins.io/doc/tutorials/tutorial-for-installing-jenkins-on-AWS/
