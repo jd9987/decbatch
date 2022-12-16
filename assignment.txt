@@ -1,4 +1,6 @@
-task-8 dec
+GIT HUB
+
+08 DEC 2022
 
 Activity 1
 
@@ -13,3 +15,46 @@ Study : What is different ways of github cloning from authentication prospective
 
 1. https
 2. ssh
+
+09 Dec 2022
+
+Activity 3
+Try below commands
+1. git diff
+2. git stash
+3. git revert
+
+Activity 4
+try all commands from this git cheat sheet
+
+https://education.github.com/git-cheat-sheet-education.pdf
+
+Activity 5
+Find difference between git clone and fork command
+
+JENKINS
+
+14 Dec
+
+What is the difference between Continuos Integration & Continuos Delivery?
+
+What is the difference between JAR, WAR and EAR file?
+
+JACOCO
+COBURTURA
+
+AWS- for- jenkins
+create vm on aws
+install maven on it
+
+AZURE- 
+create vm on azure
+install maven on it
+
+AWS- for- jenkins
+create vm on aws
+install maven on it
+
+https://www.digitalocean.com/community/tutorials/install-maven-linux-ubuntu
+
+https://www.jenkins.io/doc/tutorials/tutorial-for-installing-jenkins-on-AWS/
