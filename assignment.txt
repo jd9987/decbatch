@@ -1,77 +1,52 @@
-<<<<<<< HEAD
-=======
-GIT HUB
-
->>>>>>> feature3
-08 DEC 2022
+task-8 dec
 
 Activity 1
+Step1: create a local repo
+step2: create 3 files in main branch
+step3: create repo in git hub
+step4: push changes on git hub
 
-Step 1 : Create a local repo
-Step2 : Create 3 files in main branch
-Step 3 : Create repo in git hub
-Step 4 : push changes on github
+activity 2
 
-Activity 2
+study what is different ways of git hub cloning from authentication prospective.
 
-Study : What is different ways of github cloning from authentication prospective?
+1.https
+2.ssh
 
-1. https
-2. ssh
+9 dec
 
-09 Dec 2022
+activity 3
 
-Activity 3
-Try below commands
-1. git diff
-2. git stash
-3. git revert
+try commands
+1.git diff
+2.git stash
+3.git revert
 
-Activity 4
-try all commands from this git cheat sheet
+activity 4
 
-https://education.github.com/git-cheat-sheet-education.pdf
+try all commands from this git cheat sheet https://education.github.com/git-cheat-sheet-education.pdf
 
-Activity 5
-<<<<<<< HEAD
-Find difference between git clone and fork command
-=======
-Find difference between git clone and fork command
+activity 5
+find difference between git clone and fork command
 
-JENKINS
+14 dec
 
-14 Dec
-
-What is the difference between Continuos Integration & Continuos Delivery?
-
-What is the difference between JAR, WAR and EAR file?
-
-JACOCO
-COBURTURA
-
-AWS- for- jenkins
-create vm on aws
-install maven on it
-
-AZURE- 
-create vm on azure
-install maven on it
-
-AWS- for- jenkins
-create vm on aws
-install maven on it
-
-https://www.digitalocean.com/community/tutorials/install-maven-linux-ubuntu
-
-https://www.jenkins.io/doc/tutorials/tutorial-for-installing-jenkins-on-AWS/
->>>>>>> feature3
+activity6
+find difference between EAR,JAR,WAR
 
 activity 7
 read the article and if possible setup jenkins on aws,azure,local
-aws: https://www.jenkins.io/doc/tutorials/tutorial-for-installing-jenkins-on-AWS/
-azure: https://learn.microsoft.com/en-us/azure/developer/jenkins/configure-on-linux-vm
+
+aws:
+ 
+https://www.jenkins.io/doc/tutorials/tutorial-for-installing-jenkins-on-AWS/
+
+azure:
+
+https://learn.microsoft.com/en-us/azure/developer/jenkins/configure-on-linux-vm
 
 activity 8
+
 check and create a list of compilers for all programming languages
 nodejs-
 dot net-
